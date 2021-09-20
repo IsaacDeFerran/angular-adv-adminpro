@@ -20,6 +20,6 @@ import { NopagefoundComponent } from './nopagefound/nopagefound.component';
   ],
   providers: [],
   // tslint:disable-next-line: object-literal-sort-keys
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
 })
 export class AppModule { }

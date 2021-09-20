@@ -32,6 +32,7 @@ const routes: Routes = [
   imports: [
     RouterModule.forRoot( routes ),
   ],
+  // tslint:disable-next-line: object-literal-sort-keys
   exports: [ RouterModule ],
 })
 export class AppRoutingModule { }
