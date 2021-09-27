@@ -11,6 +11,8 @@ export class PagesComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
+
+    // ./assets/css/colors/purple-dark.css
   }
 
 }
